@@ -5,7 +5,7 @@
 Acest proiect de eBook Reader utilizeaza microcontrollerul *ESP32-C6*, fiind proiectat pentru consum redus de energie, conectivitate avansata si adaptabilitate hardware.
 
 ## Diagrama Block
-![Diagrama Block](image.png)
+![Diagrama Block](./Images/Diagrama.jpg)
 
 ## Microcontroller – ESP32-C6
 - *Arhitectura:* RISC-V 32-bit
